@@ -34,7 +34,7 @@ Sprint atual: **Sprint 0 - Planejamento**
 ## Roadmap
 
 - ✅ Sprint 0 - Planejamento
-- ⬜ Sprint 1 - Cadastro de Pessoas
+- ✅ Sprint 1 - Cadastro de Pessoas
 - ⬜ Sprint 2 - Cadastro de Veículos
 - ⬜ Sprint 3 - Estoque
 - ⬜ Sprint 4 - Vendas
