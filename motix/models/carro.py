@@ -1,5 +1,15 @@
 class Carro:
-    def __init__(self, fabricante, modelo, ano, quilometragem, motorizacao, valor, cor, placa):
+    def __init__(
+        self,
+        fabricante,
+        modelo,
+        ano,
+        quilometragem,
+        motorizacao,
+        valor,
+        cor,
+        placa,
+    ):
         self.fabricante = fabricante
         self.modelo = modelo
         self.ano = ano
