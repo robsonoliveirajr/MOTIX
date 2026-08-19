@@ -27,7 +27,7 @@ Desenvolver um sistema de gerenciamento para concessionárias utilizando Python,
 
 🚧 Em desenvolvimento
 
-Sprint atual: **Sprint 0 - Planejamento**
+Sprint atual: **Sprint 1 - Cadastro de Pessoas**
 
 ---
 
